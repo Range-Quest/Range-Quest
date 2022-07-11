@@ -2,4 +2,6 @@
 
 Welcome!
 
+Visit The Range Quest Home
+
 https://rangequest.web.app
